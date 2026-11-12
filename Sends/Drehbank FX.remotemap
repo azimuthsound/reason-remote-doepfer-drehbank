@@ -1,0 +1,1837 @@
+﻿Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Doepfer
+Control Surface Model	Drehbank FX
+Map Version	1.4.6
+
+
+//<	20110628
+Scope	Propellerheads	Reason Master Section
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// BANK 1
+
+Map	Knob 1		Channel 1 FX1 Send Level
+Map	Knob 2		Channel 2 FX1 Send Level
+Map	Knob 3		Channel 3 FX1 Send Level
+Map	Knob 4		Channel 4 FX1 Send Level
+Map	Knob 5		Channel 5 FX1 Send Level
+Map	Knob 6		Channel 6 FX1 Send Level
+Map	Knob 7		Channel 7 FX1 Send Level
+Map	Knob 8		Channel 8 FX1 Send Level
+Map	Knob 9		Channel 9 FX1 Send Level
+Map	Knob 10		Channel 10 FX1 Send Level
+Map	Knob 11		Channel 11 FX1 Send Level
+Map	Knob 12		Channel 12 FX1 Send Level
+Map	Knob 13		Channel 13 FX1 Send Level
+Map	Knob 14		Channel 14 FX1 Send Level
+Map	Knob 15		Channel 15 FX1 Send Level
+Map	Knob 16		Channel 16 FX1 Send Level
+
+Map	Knob 17		Channel 1 FX2 Send Level
+Map	Knob 18		Channel 2 FX2 Send Level
+Map	Knob 19		Channel 3 FX2 Send Level
+Map	Knob 20		Channel 4 FX2 Send Level
+Map	Knob 21		Channel 5 FX2 Send Level
+Map	Knob 22		Channel 6 FX2 Send Level
+Map	Knob 23		Channel 7 FX2 Send Level
+Map	Knob 24		Channel 8 FX2 Send Level
+Map	Knob 25		Channel 9 FX2 Send Level
+Map	Knob 26		Channel 10 FX2 Send Level
+Map	Knob 27		Channel 11 FX2 Send Level
+Map	Knob 28		Channel 12 FX2 Send Level
+Map	Knob 29		Channel 13 FX2 Send Level
+Map	Knob 30		Channel 14 FX2 Send Level
+Map	Knob 31		Channel 15 FX2 Send Level
+Map	Knob 32		Channel 16 FX2 Send Level
+
+Map	Knob 33		Channel 1 FX3 Send Level
+Map	Knob 34		Channel 2 FX3 Send Level
+Map	Knob 35		Channel 3 FX3 Send Level
+Map	Knob 36		Channel 4 FX3 Send Level
+Map	Knob 37		Channel 5 FX3 Send Level
+Map	Knob 38		Channel 6 FX3 Send Level
+Map	Knob 39		Channel 7 FX3 Send Level
+Map	Knob 40		Channel 8 FX3 Send Level
+Map	Knob 41		Channel 9 FX3 Send Level
+Map	Knob 42		Channel 10 FX3 Send Level
+Map	Knob 43		Channel 11 FX3 Send Level
+Map	Knob 44		Channel 12 FX3 Send Level
+Map	Knob 45		Channel 13 FX3 Send Level
+Map	Knob 46		Channel 14 FX3 Send Level
+Map	Knob 47		Channel 15 FX3 Send Level
+Map	Knob 48		Channel 16 FX3 Send Level
+
+Map	Knob 49		Channel 1 FX4 Send Level
+Map	Knob 50		Channel 2 FX4 Send Level
+Map	Knob 51		Channel 3 FX4 Send Level
+Map	Knob 52		Channel 4 FX4 Send Level
+Map	Knob 53		Channel 5 FX4 Send Level
+Map	Knob 54		Channel 6 FX4 Send Level
+Map	Knob 55		Channel 7 FX4 Send Level
+Map	Knob 56		Channel 8 FX4 Send Level
+Map	Knob 57		Channel 9 FX4 Send Level
+Map	Knob 58		Channel 10 FX4 Send Level
+Map	Knob 59		Channel 11 FX4 Send Level
+Map	Knob 60		Channel 12 FX4 Send Level
+Map	Knob 61		Channel 13 FX4 Send Level
+Map	Knob 62		Channel 14 FX4 Send Level
+Map	Knob 63		Channel 15 FX4 Send Level
+Map	Knob 64		Channel 16 FX4 Send Level
+
+// BANK 2
+
+Map	Knob 65		Channel 1 FX5 Send Level
+Map	Knob 66		Channel 2 FX5 Send Level
+Map	Knob 67		Channel 3 FX5 Send Level
+Map	Knob 68		Channel 4 FX5 Send Level
+Map	Knob 69		Channel 5 FX5 Send Level
+Map	Knob 70		Channel 6 FX5 Send Level
+Map	Knob 71		Channel 7 FX5 Send Level
+Map	Knob 72		Channel 8 FX5 Send Level
+Map	Knob 73		Channel 9 FX5 Send Level
+Map	Knob 74		Channel 10 FX5 Send Level
+Map	Knob 75		Channel 11 FX5 Send Level
+Map	Knob 76		Channel 12 FX5 Send Level
+Map	Knob 77		Channel 13 FX5 Send Level
+Map	Knob 78		Channel 14 FX5 Send Level
+Map	Knob 79		Channel 15 FX5 Send Level
+Map	Knob 80		Channel 16 FX5 Send Level
+
+Map	Knob 81		Channel 1 FX6 Send Level
+Map	Knob 82		Channel 2 FX6 Send Level
+Map	Knob 83		Channel 3 FX6 Send Level
+Map	Knob 84		Channel 4 FX6 Send Level
+Map	Knob 85		Channel 5 FX6 Send Level
+Map	Knob 86		Channel 6 FX6 Send Level
+Map	Knob 87		Channel 7 FX6 Send Level
+Map	Knob 88		Channel 8 FX6 Send Level
+Map	Knob 89		Channel 9 FX6 Send Level
+Map	Knob 90		Channel 10 FX6 Send Level
+Map	Knob 91		Channel 11 FX6 Send Level
+Map	Knob 92		Channel 12 FX6 Send Level
+Map	Knob 93		Channel 13 FX6 Send Level
+Map	Knob 94		Channel 14 FX6 Send Level
+Map	Knob 95		Channel 15 FX6 Send Level
+Map	Knob 96		Channel 16 FX6 Send Level
+
+Map	Knob 97		Channel 1 FX7 Send Level
+Map	Knob 98		Channel 2 FX7 Send Level
+Map	Knob 99		Channel 3 FX7 Send Level
+Map	Knob 100		Channel 4 FX7 Send Level
+Map	Knob 101		Channel 5 FX7 Send Level
+Map	Knob 102		Channel 6 FX7 Send Level
+Map	Knob 103		Channel 7 FX7 Send Level
+Map	Knob 104		Channel 8 FX7 Send Level
+Map	Knob 105		Channel 9 FX7 Send Level
+Map	Knob 106		Channel 10 FX7 Send Level
+Map	Knob 107		Channel 11 FX7 Send Level
+Map	Knob 108		Channel 12 FX7 Send Level
+Map	Knob 109		Channel 13 FX7 Send Level
+Map	Knob 110		Channel 14 FX7 Send Level
+Map	Knob 111		Channel 15 FX7 Send Level
+Map	Knob 112		Channel 16 FX7 Send Level
+
+Map	Knob 113		Channel 1 FX8 Send Level
+Map	Knob 114		Channel 2 FX8 Send Level
+Map	Knob 115		Channel 3 FX8 Send Level
+Map	Knob 116		Channel 4 FX8 Send Level
+Map	Knob 117		Channel 5 FX8 Send Level
+Map	Knob 118		Channel 6 FX8 Send Level
+Map	Knob 119		Channel 7 FX8 Send Level
+Map	Knob 120		Channel 8 FX8 Send Level
+Map	Knob 121		Channel 9 FX8 Send Level
+Map	Knob 122		Channel 10 FX8 Send Level
+Map	Knob 123		Channel 11 FX8 Send Level
+Map	Knob 124		Channel 12 FX8 Send Level
+Map	Knob 125		Channel 13 FX8 Send Level
+Map	Knob 126		Channel 14 FX8 Send Level
+Map	Knob 127		Channel 15 FX8 Send Level
+Map	Knob 128		Channel 16 FX8 Send Level
+
+
+
+
+//<	20110628
+Scope	Propellerheads	Reason Main Mixer Channel
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// BANK 1
+
+Map	Knob 1		Channel 1 FX1 Send Level
+Map	Knob 2		Channel 2 FX1 Send Level
+Map	Knob 3		Channel 3 FX1 Send Level
+Map	Knob 4		Channel 4 FX1 Send Level
+Map	Knob 5		Channel 5 FX1 Send Level
+Map	Knob 6		Channel 6 FX1 Send Level
+Map	Knob 7		Channel 7 FX1 Send Level
+Map	Knob 8		Channel 8 FX1 Send Level
+Map	Knob 9		Channel 9 FX1 Send Level
+Map	Knob 10		Channel 10 FX1 Send Level
+Map	Knob 11		Channel 11 FX1 Send Level
+Map	Knob 12		Channel 12 FX1 Send Level
+Map	Knob 13		Channel 13 FX1 Send Level
+Map	Knob 14		Channel 14 FX1 Send Level
+Map	Knob 15		Channel 15 FX1 Send Level
+Map	Knob 16		Channel 16 FX1 Send Level
+
+Map	Knob 17		Channel 1 FX2 Send Level
+Map	Knob 18		Channel 2 FX2 Send Level
+Map	Knob 19		Channel 3 FX2 Send Level
+Map	Knob 20		Channel 4 FX2 Send Level
+Map	Knob 21		Channel 5 FX2 Send Level
+Map	Knob 22		Channel 6 FX2 Send Level
+Map	Knob 23		Channel 7 FX2 Send Level
+Map	Knob 24		Channel 8 FX2 Send Level
+Map	Knob 25		Channel 9 FX2 Send Level
+Map	Knob 26		Channel 10 FX2 Send Level
+Map	Knob 27		Channel 11 FX2 Send Level
+Map	Knob 28		Channel 12 FX2 Send Level
+Map	Knob 29		Channel 13 FX2 Send Level
+Map	Knob 30		Channel 14 FX2 Send Level
+Map	Knob 31		Channel 15 FX2 Send Level
+Map	Knob 32		Channel 16 FX2 Send Level
+
+Map	Knob 33		Channel 1 FX3 Send Level
+Map	Knob 34		Channel 2 FX3 Send Level
+Map	Knob 35		Channel 3 FX3 Send Level
+Map	Knob 36		Channel 4 FX3 Send Level
+Map	Knob 37		Channel 5 FX3 Send Level
+Map	Knob 38		Channel 6 FX3 Send Level
+Map	Knob 39		Channel 7 FX3 Send Level
+Map	Knob 40		Channel 8 FX3 Send Level
+Map	Knob 41		Channel 9 FX3 Send Level
+Map	Knob 42		Channel 10 FX3 Send Level
+Map	Knob 43		Channel 11 FX3 Send Level
+Map	Knob 44		Channel 12 FX3 Send Level
+Map	Knob 45		Channel 13 FX3 Send Level
+Map	Knob 46		Channel 14 FX3 Send Level
+Map	Knob 47		Channel 15 FX3 Send Level
+Map	Knob 48		Channel 16 FX3 Send Level
+
+Map	Knob 49		Channel 1 FX4 Send Level
+Map	Knob 50		Channel 2 FX4 Send Level
+Map	Knob 51		Channel 3 FX4 Send Level
+Map	Knob 52		Channel 4 FX4 Send Level
+Map	Knob 53		Channel 5 FX4 Send Level
+Map	Knob 54		Channel 6 FX4 Send Level
+Map	Knob 55		Channel 7 FX4 Send Level
+Map	Knob 56		Channel 8 FX4 Send Level
+Map	Knob 57		Channel 9 FX4 Send Level
+Map	Knob 58		Channel 10 FX4 Send Level
+Map	Knob 59		Channel 11 FX4 Send Level
+Map	Knob 60		Channel 12 FX4 Send Level
+Map	Knob 61		Channel 13 FX4 Send Level
+Map	Knob 62		Channel 14 FX4 Send Level
+Map	Knob 63		Channel 15 FX4 Send Level
+Map	Knob 64		Channel 16 FX4 Send Level
+
+// BANK 2
+
+Map	Knob 65		Channel 1 FX5 Send Level
+Map	Knob 66		Channel 2 FX5 Send Level
+Map	Knob 67		Channel 3 FX5 Send Level
+Map	Knob 68		Channel 4 FX5 Send Level
+Map	Knob 69		Channel 5 FX5 Send Level
+Map	Knob 70		Channel 6 FX5 Send Level
+Map	Knob 71		Channel 7 FX5 Send Level
+Map	Knob 72		Channel 8 FX5 Send Level
+Map	Knob 73		Channel 9 FX5 Send Level
+Map	Knob 74		Channel 10 FX5 Send Level
+Map	Knob 75		Channel 11 FX5 Send Level
+Map	Knob 76		Channel 12 FX5 Send Level
+Map	Knob 77		Channel 13 FX5 Send Level
+Map	Knob 78		Channel 14 FX5 Send Level
+Map	Knob 79		Channel 15 FX5 Send Level
+Map	Knob 80		Channel 16 FX5 Send Level
+
+Map	Knob 81		Channel 1 FX6 Send Level
+Map	Knob 82		Channel 2 FX6 Send Level
+Map	Knob 83		Channel 3 FX6 Send Level
+Map	Knob 84		Channel 4 FX6 Send Level
+Map	Knob 85		Channel 5 FX6 Send Level
+Map	Knob 86		Channel 6 FX6 Send Level
+Map	Knob 87		Channel 7 FX6 Send Level
+Map	Knob 88		Channel 8 FX6 Send Level
+Map	Knob 89		Channel 9 FX6 Send Level
+Map	Knob 90		Channel 10 FX6 Send Level
+Map	Knob 91		Channel 11 FX6 Send Level
+Map	Knob 92		Channel 12 FX6 Send Level
+Map	Knob 93		Channel 13 FX6 Send Level
+Map	Knob 94		Channel 14 FX6 Send Level
+Map	Knob 95		Channel 15 FX6 Send Level
+Map	Knob 96		Channel 16 FX6 Send Level
+
+Map	Knob 97		Channel 1 FX7 Send Level
+Map	Knob 98		Channel 2 FX7 Send Level
+Map	Knob 99		Channel 3 FX7 Send Level
+Map	Knob 100		Channel 4 FX7 Send Level
+Map	Knob 101		Channel 5 FX7 Send Level
+Map	Knob 102		Channel 6 FX7 Send Level
+Map	Knob 103		Channel 7 FX7 Send Level
+Map	Knob 104		Channel 8 FX7 Send Level
+Map	Knob 105		Channel 9 FX7 Send Level
+Map	Knob 106		Channel 10 FX7 Send Level
+Map	Knob 107		Channel 11 FX7 Send Level
+Map	Knob 108		Channel 12 FX7 Send Level
+Map	Knob 109		Channel 13 FX7 Send Level
+Map	Knob 110		Channel 14 FX7 Send Level
+Map	Knob 111		Channel 15 FX7 Send Level
+Map	Knob 112		Channel 16 FX7 Send Level
+
+Map	Knob 113		Channel 1 FX8 Send Level
+Map	Knob 114		Channel 2 FX8 Send Level
+Map	Knob 115		Channel 3 FX8 Send Level
+Map	Knob 116		Channel 4 FX8 Send Level
+Map	Knob 117		Channel 5 FX8 Send Level
+Map	Knob 118		Channel 6 FX8 Send Level
+Map	Knob 119		Channel 7 FX8 Send Level
+Map	Knob 120		Channel 8 FX8 Send Level
+Map	Knob 121		Channel 9 FX8 Send Level
+Map	Knob 122		Channel 10 FX8 Send Level
+Map	Knob 123		Channel 11 FX8 Send Level
+Map	Knob 124		Channel 12 FX8 Send Level
+Map	Knob 125		Channel 13 FX8 Send Level
+Map	Knob 126		Channel 14 FX8 Send Level
+Map	Knob 127		Channel 15 FX8 Send Level
+Map	Knob 128		Channel 16 FX8 Send Level
+
+
+
+
+Scope	Propellerheads	Mixer 14:2
+Define Group	Keyboard Shortcut Variations	Pans/EQ	Sends
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 49		Channel 1 Level
+Map	Knob 50		Channel 2 Level
+Map	Knob 51		Channel 3 Level
+Map	Knob 52		Channel 4 Level
+Map	Knob 53		Channel 5 Level
+Map	Knob 54		Channel 6 Level
+Map	Knob 55		Channel 7 Level
+Map	Knob 56		Channel 8 Level
+Map	Knob 57		Channel 9 Level
+Map	Knob 58		Channel 10 Level
+Map	Knob 59		Channel 11 Level
+Map	Knob 60		Channel 12 Level
+Map	Knob 61		Channel 13 Level
+Map	Knob 62		Channel 14 Level
+Map	Knob 15		Aux 1 Return Level
+Map	Knob 31		Aux 2 Return Level
+Map	Knob 47		Aux 3 Return Level
+Map	Knob 63		Aux 4 Return Level
+Map	Knob 64		Master Level
+
+Map	Knob 1		Channel 1 Treble Amount			Pans/EQ
+Map	Knob 2		Channel 2 Treble Amount			Pans/EQ
+Map	Knob 3		Channel 3 Treble Amount			Pans/EQ
+Map	Knob 4		Channel 4 Treble Amount			Pans/EQ
+Map	Knob 5		Channel 5 Treble Amount			Pans/EQ
+Map	Knob 6		Channel 6 Treble Amount			Pans/EQ
+Map	Knob 7		Channel 7 Treble Amount			Pans/EQ
+Map	Knob 8		Channel 8 Treble Amount			Pans/EQ
+Map	Knob 9		Channel 9 Treble Amount			Pans/EQ
+Map	Knob 10		Channel 10 Treble Amount			Pans/EQ
+Map	Knob 11		Channel 11 Treble Amount			Pans/EQ
+Map	Knob 12		Channel 12 Treble Amount			Pans/EQ
+Map	Knob 13		Channel 13 Treble Amount			Pans/EQ
+Map	Knob 14		Channel 14 Treble Amount			Pans/EQ
+Map	Knob 17		Channel 1 Bass Amount			Pans/EQ
+Map	Knob 18		Channel 2 Bass Amount			Pans/EQ
+Map	Knob 19		Channel 3 Bass Amount			Pans/EQ
+Map	Knob 20		Channel 4 Bass Amount			Pans/EQ
+Map	Knob 21		Channel 5 Bass Amount			Pans/EQ
+Map	Knob 22		Channel 6 Bass Amount			Pans/EQ
+Map	Knob 23		Channel 7 Bass Amount			Pans/EQ
+Map	Knob 24		Channel 8 Bass Amount			Pans/EQ
+Map	Knob 25		Channel 9 Bass Amount			Pans/EQ
+Map	Knob 26		Channel 10 Bass Amount			Pans/EQ
+Map	Knob 27		Channel 11 Bass Amount			Pans/EQ
+Map	Knob 28		Channel 12 Bass Amount			Pans/EQ
+Map	Knob 29		Channel 13 Bass Amount			Pans/EQ
+Map	Knob 30		Channel 14 Bass Amount			Pans/EQ
+Map	Knob 33		Channel 1 Pan			Pans/EQ
+Map	Knob 34		Channel 2 Pan			Pans/EQ
+Map	Knob 35		Channel 3 Pan			Pans/EQ
+Map	Knob 36		Channel 4 Pan			Pans/EQ
+Map	Knob 37		Channel 5 Pan			Pans/EQ
+Map	Knob 38		Channel 6 Pan			Pans/EQ
+Map	Knob 39		Channel 7 Pan			Pans/EQ
+Map	Knob 40		Channel 8 Pan			Pans/EQ
+Map	Knob 41		Channel 9 Pan			Pans/EQ
+Map	Knob 42		Channel 10 Pan			Pans/EQ
+Map	Knob 43		Channel 11 Pan			Pans/EQ
+Map	Knob 44		Channel 12 Pan			Pans/EQ
+Map	Knob 45		Channel 13 Pan			Pans/EQ
+Map	Knob 46		Channel 14 Pan			Pans/EQ
+
+Map	Knob 1		Channel 1 Aux 1 Send			Sends
+Map	Knob 2		Channel 2 Aux 1 Send			Sends
+Map	Knob 3		Channel 3 Aux 1 Send			Sends
+Map	Knob 4		Channel 4 Aux 1 Send			Sends
+Map	Knob 5		Channel 5 Aux 1 Send			Sends
+Map	Knob 6		Channel 6 Aux 1 Send			Sends
+Map	Knob 7		Channel 7 Aux 1 Send			Sends
+Map	Knob 8		Channel 8 Aux 1 Send			Sends
+Map	Knob 9		Channel 9 Aux 1 Send			Sends
+Map	Knob 10		Channel 10 Aux 1 Send			Sends
+Map	Knob 11		Channel 11 Aux 1 Send			Sends
+Map	Knob 12		Channel 12 Aux 1 Send			Sends
+Map	Knob 13		Channel 13 Aux 1 Send			Sends
+Map	Knob 14		Channel 14 Aux 1 Send			Sends
+Map	Knob 17		Channel 1 Aux 2 Send			Sends
+Map	Knob 18		Channel 2 Aux 2 Send			Sends
+Map	Knob 19		Channel 3 Aux 2 Send			Sends
+Map	Knob 20		Channel 4 Aux 2 Send			Sends
+Map	Knob 21		Channel 5 Aux 2 Send			Sends
+Map	Knob 22		Channel 6 Aux 2 Send			Sends
+Map	Knob 23		Channel 7 Aux 2 Send			Sends
+Map	Knob 24		Channel 8 Aux 2 Send			Sends
+Map	Knob 25		Channel 9 Aux 2 Send			Sends
+Map	Knob 26		Channel 10 Aux 2 Send			Sends
+Map	Knob 27		Channel 11 Aux 2 Send			Sends
+Map	Knob 28		Channel 12 Aux 2 Send			Sends
+Map	Knob 29		Channel 13 Aux 2 Send			Sends
+Map	Knob 30		Channel 14 Aux 2 Send			Sends
+Map	Knob 33		Channel 1 Aux 3 Send			Sends
+Map	Knob 34		Channel 2 Aux 3 Send			Sends
+Map	Knob 35		Channel 3 Aux 3 Send			Sends
+Map	Knob 36		Channel 4 Aux 3 Send			Sends
+Map	Knob 37		Channel 5 Aux 3 Send			Sends
+Map	Knob 38		Channel 6 Aux 3 Send			Sends
+Map	Knob 39		Channel 7 Aux 3 Send			Sends
+Map	Knob 40		Channel 8 Aux 3 Send			Sends
+Map	Knob 41		Channel 9 Aux 3 Send			Sends
+Map	Knob 42		Channel 10 Aux 3 Send			Sends
+Map	Knob 43		Channel 11 Aux 3 Send			Sends
+Map	Knob 44		Channel 12 Aux 3 Send			Sends
+Map	Knob 45		Channel 13 Aux 3 Send			Sends
+Map	Knob 46		Channel 14 Aux 3 Send			Sends
+Map	Knob 49		Channel 1 Aux 4 Send			Sends
+Map	Knob 50		Channel 2 Aux 4 Send			Sends
+Map	Knob 51		Channel 3 Aux 4 Send			Sends
+Map	Knob 52		Channel 4 Aux 4 Send			Sends
+Map	Knob 53		Channel 5 Aux 4 Send			Sends
+Map	Knob 54		Channel 6 Aux 4 Send			Sends
+Map	Knob 55		Channel 7 Aux 4 Send			Sends
+Map	Knob 56		Channel 8 Aux 4 Send			Sends
+Map	Knob 57		Channel 9 Aux 4 Send			Sends
+Map	Knob 58		Channel 10 Aux 4 Send			Sends
+Map	Knob 59		Channel 11 Aux 4 Send			Sends
+Map	Knob 60		Channel 12 Aux 4 Send			Sends
+Map	Knob 61		Channel 13 Aux 4 Send			Sends
+Map	Knob 62		Channel 14 Aux 4 Send			Sends
+
+
+Scope	Propellerheads	Line Mixer 6:2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Channel 1 Mute
+Map	Knob 2		Channel 2 Mute
+Map	Knob 3		Channel 3 Mute
+Map	Knob 4		Channel 4 Mute
+Map	Knob 5		Channel 5 Mute
+Map	Knob 6		Channel 6 Mute
+Map	Knob 17		Channel 1 Aux Send
+Map	Knob 18		Channel 2 Aux Send
+Map	Knob 19		Channel 3 Aux Send
+Map	Knob 20		Channel 4 Aux Send
+Map	Knob 21		Channel 5 Aux Send
+Map	Knob 22		Channel 6 Aux Send
+Map	Knob 33		Channel 1 Pan
+Map	Knob 34		Channel 2 Pan
+Map	Knob 35		Channel 3 Pan
+Map	Knob 36		Channel 4 Pan
+Map	Knob 37		Channel 5 Pan
+Map	Knob 38		Channel 6 Pan
+Map	Knob 49		Channel 1 Level
+Map	Knob 50		Channel 2 Level
+Map	Knob 51		Channel 3 Level
+Map	Knob 52		Channel 4 Level
+Map	Knob 53		Channel 5 Level
+Map	Knob 54		Channel 6 Level
+Map	Knob 48		Aux Return Level
+Map	Knob 64		Master Level
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Rotary 1
+Map	Knob 2		Rotary 2
+Map	Knob 3		Rotary 3
+Map	Knob 4		Rotary 4
+Map	Knob 17		Button 1
+Map	Knob 18		Button 2
+Map	Knob 19		Button 3
+Map	Knob 20		Button 4
+
+Scope	Propellerheads	THOR Polysonic Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Button 1
+Map	Knob 2		Button 2
+Map	Knob 3		Rotary 1
+Map	Knob 4		Rotary 2
+Map	Knob 5		Key Mode
+Map	Knob 6		Portamento Mode
+Map	Knob 7		Global Env Gate Trig On
+Map	Knob 8		Filter Env Gate Trig On
+Map	Knob 9		Mod Env Gate Trig On
+Map	Knob 10		Osc 1 To Filter 1 Enable
+Map	Knob 11		Osc 1 To Filter 2 Enable
+Map	Knob 12		Osc 2 To Filter 1 Enable
+Map	Knob 13		Osc 2 To Filter 2 Enable
+Map	Knob 14		Osc 3 To Filter 1 Enable
+Map	Knob 15		Osc 3 To Filter 2 Enable
+Map	Knob 16		Delay On
+
+
+Map	Knob 17		Filter 1 Freq
+Map	Knob 18		Filter 1 Res
+Map	Knob 19		Filter 2 Freq
+Map	Knob 20		Filter 2 Res
+Map	Knob 21		Filter 3 Freq
+
+Map	Knob 23		Filter 1 Drive
+Map	Knob 24		Filter 2 Drive
+Map	Knob 25		Filter Env Attack
+Map	Knob 26		Filter Env Decay
+Map	Knob 27		Filter Env Sustain
+Map	Knob 28		Filter Env Release
+Map	Knob 29		Amp Env Attack
+Map	Knob 30		Amp Env Decay
+Map	Knob 31		Amp Env Sustain
+Map	Knob 32		Amp Env Release
+
+
+Map	Knob 33		Osc 1 Mod
+Map	Knob 34		Osc 2 Mod
+Map	Knob 35		Osc 3 Mod
+Map	Knob 36		Osc 1 And 2 Balance
+Map	Knob 37		Osc 1 And 2 Level
+Map	Knob 38		Osc 3 Level
+Map	Knob 39		Osc 1 Kbd
+Map	Knob 40		Osc 2 Kbd
+Map	Knob 41		Osc 3 Kbd
+Map	Knob 42		Shaper Type
+Map	Knob 43		Shaper Drive
+Map	Knob 44		Portamento
+Map	Knob 45		Amplifier Pan
+Map	Knob 46		Amplifier Velocity
+Map	Knob 47		Amplifier Gain
+Map	Knob 48		Master Level
+
+Map	Knob 49		LFO 1 Rate
+Map	Knob 50		LFO 1 Waveform
+Map	Knob 51		LFO 2 Rate
+Map	Knob 52		LFO 2 Waveform
+Map	Knob 53		Delay Dry Wet
+Map	Knob 54		Chorus Dry Wet
+Map	Knob 55		Mod Env Delay
+Map	Knob 56		Mod Env Attack
+Map	Knob 57		Mod Env Decay
+Map	Knob 58		Mod Env Release
+Map	Knob 59		Global Env Delay
+Map	Knob 60		Global Env Attack
+Map	Knob 61		Global Env Hold
+Map	Knob 62		Global Env Decay
+Map	Knob 63		Global Env Sustain
+Map	Knob 64		Global Env Release
+
+
+
+
+
+
+
+Scope	Propellerheads	SubTractor Analog Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Osc1 Phase Diff
+Map	Knob 2		Osc1 Phase Mode
+Map	Knob 3		Osc1 Wave
+Map	Knob 4		Osc1 Octave
+Map	Knob 5		Osc1 Semitone
+Map	Knob 6		Osc1 Fine Tune
+Map	Knob 7		FM Amount
+Map	Knob 9		Filter Freq
+Map	Knob 10		Filter Res
+Map	Knob 11		Filter Type
+Map	Knob 12		Filter Kbd Track
+Map	Knob 13		Filter Env Attack
+Map	Knob 14		Filter Env Decay
+Map	Knob 15		Filter Env Sustain
+Map	Knob 16		Filter Env Release
+Map	Knob 17		Osc2 Phase Diff
+Map	Knob 18		Osc2 Phase Mode
+Map	Knob 19		Osc2 Wave
+Map	Knob 20		Osc2 Octave
+Map	Knob 21		Osc2 Semitone
+Map	Knob 22		Osc2 Fine Tune
+Map	Knob 23		Osc Mix
+Map	Knob 25		Filter2 Freq
+Map	Knob 26		Filter2 Res
+Map	Knob 29		Amp Env Attack
+Map	Knob 30		Amp Env Decay
+Map	Knob 31		Amp Env Sustain
+Map	Knob 32		Amp Env Release
+Map	Knob 33		Noise Decay
+Map	Knob 34		Noise Color
+Map	Knob 35		Noise Level
+Map	Knob 45		Mod Env Attack
+Map	Knob 46		Mod Env Decay
+Map	Knob 47		Mod Env Sustain
+Map	Knob 48		Mod Env Release
+Map	Knob 49		LFO1 Rate
+Map	Knob 50		LFO1 Amount
+Map	Knob 51		LFO1 Wave
+Map	Knob 52		LFO1 Dest
+Map	Knob 53		LFO2 Dest
+Map	Knob 54		LFO2 Rate
+Map	Knob 55		LFO2 Amount
+Map	Knob 56		LFO2 Kbd Track
+Map	Knob 57		LFO2 Delay
+Map	Knob 61		Mod Env Gain
+Map	Knob 62		Mod Env Dest
+Map	Knob 63		Filter Env Amount
+Map	Knob 64		Master Level
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Modulator A Curve
+Map	Knob 2		Modulator A Rate
+Map	Knob 3		Modulator A To Pitch
+Map	Knob 4		Modulator A To Index
+Map	Knob 5		Modulator A To Shift
+Map	Knob 6		Modulator B Curve
+Map	Knob 7		Modulator B Rate
+Map	Knob 8		Modulator B To Motion
+Map	Knob 9		Modulator B To Level
+Map	Knob 10		Modulator B To Filter
+Map	Knob 11		Modulator B To Modulator A
+Map	Knob 12		Filter Env Attack
+Map	Knob 13		Filter Env Decay
+Map	Knob 14		Filter Env Sustain
+Map	Knob 15		Filter Env Release
+Map	Knob 16		Filter Env Amount
+Map	Knob 17		Oscillator A Motion
+Map	Knob 18		Oscillator A Index
+Map	Knob 19		Oscillator A Shift
+Map	Knob 20		Oscillator A Octave
+Map	Knob 21		Oscillator A Semi
+Map	Knob 22		Oscillator A Cent
+Map	Knob 23		Oscillator A Attack
+Map	Knob 24		Oscillator A Decay
+Map	Knob 25		Oscillator A Sustain
+Map	Knob 26		Oscillator A Release
+Map	Knob 27		Oscillator A Gain
+Map	Knob 33		Oscillator B Motion
+Map	Knob 34		Oscillator B Index
+Map	Knob 35		Oscillator B Shift
+Map	Knob 36		Oscillator B Octave
+Map	Knob 37		Oscillator B Semi
+Map	Knob 38		Oscillator B Cent
+Map	Knob 39		Oscillator B Attack
+Map	Knob 40		Oscillator B Decay
+Map	Knob 41		Oscillator B Sustain
+Map	Knob 42		Oscillator B Release
+Map	Knob 43		Oscillator B Gain
+Map	Knob 48		Spread Amount
+Map	Knob 64		Master Level
+Map	Knob 29		Filter A Mode
+Map	Knob 30		Filter A Freq
+Map	Knob 31		Filter A Resonance
+Map	Knob 45		Filter B Mode
+Map	Knob 46		Filter B Freq
+Map	Knob 47		Filter B Resonance
+Map	Knob 28		Shaper Mode
+Map	Knob 44		Shaper Amount
+Map	Knob 49		Modulator A On/Off
+Map	Knob 50		Modulator A Target
+Map	Knob 51		Modulator B On/Off
+Map	Knob 52		Modulator B Target
+Map	Knob 53		Filter Env Invert
+Map	Knob 54		Oscillator A On/Off
+Map	Knob 55		Route Oscillator A To Shaper
+Map	Knob 56		Route Oscillator A To Filter B
+Map	Knob 57		Oscillator B On/Off
+Map	Knob 58		Route Oscillator B To Filter B
+Map	Knob 59		Shaper On/Off
+Map	Knob 60		Filter A On/Off
+Map	Knob 61		Filter B On/Off
+Map	Knob 62		Route Filter B To Shaper
+
+Scope	Propellerheads	NN19 Digital Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Res
+Map	Knob 3		Filter Mode
+Map	Knob 4		Filter Env Amount
+Map	Knob 5		Filter Env Attack
+Map	Knob 6		Filter Env Decay
+Map	Knob 7		Filter Env Sustain
+Map	Knob 8		Filter Env Release
+Map	Knob 9		Portamento
+Map	Knob 10		LFO Rate
+Map	Knob 11		LFO Amount
+Map	Knob 12		Amp Env Attack
+Map	Knob 13		Amp Env Decay
+Map	Knob 14		Amp Env Sustain
+Map	Knob 15		Amp Env Release
+Map	Knob 16		Master Level
+
+Scope	Propellerheads	NN-XT Advanced Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Res
+Map	Knob 3		Amp Env Attack
+Map	Knob 4		Amp Env Decay
+Map	Knob 5		Amp Env Release
+Map	Knob 6		Mod Env Decay
+Map	Knob 7		External Controller
+Map	Knob 16		Master Volume
+
+Scope	Propellerheads	Dr.REX Loop Player
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Osc Octave
+Map	Knob 2		Transpose
+Map	Knob 3		Osc Fine Tune
+Map	Knob 4		Osc Env Amount
+Map	Knob 5		Amp Env Attack
+Map	Knob 6		Amp Env Decay
+Map	Knob 7		Amp Env Sustain
+Map	Knob 8		Amp Env Release
+Map	Knob 9		Filter Freq
+Map	Knob 10		Filter Res
+Map	Knob 11		Filter Mode
+Map	Knob 12		Filter Env Amount
+Map	Knob 13		Filter Env Attack
+Map	Knob 14		Filter Env Decay
+Map	Knob 15		Filter Env Sustain
+Map	Knob 16		Filter Env Release
+Map	Knob 17		Loop Transpose
+Map	Knob 18		Loop Level
+
+
+Scope	Propellerheads	Redrum Drum Computer
+Define Group	Keyboard Shortcut Variations	Level & Pan 1-8	Pitch
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 49		Drum 1 Level
+Map	Knob 50		Drum 2 Level
+Map	Knob 51		Drum 3 Level
+Map	Knob 52		Drum 4 Level
+Map	Knob 53		Drum 5 Level
+Map	Knob 54		Drum 6 Level
+Map	Knob 55		Drum 7 Level
+Map	Knob 56		Drum 8 Level
+Map	Knob 57		Drum 9 Level
+Map	Knob 58		Drum 10 Level
+Map	Knob 33		Drum 1 Pan
+Map	Knob 34		Drum 2 Pan
+Map	Knob 35		Drum 3 Pan
+Map	Knob 36		Drum 4 Pan
+Map	Knob 37		Drum 5 Pan
+Map	Knob 38		Drum 6 Pan
+Map	Knob 39		Drum 7 Pan
+Map	Knob 40		Drum 8 Pan
+Map	Knob 41		Drum 9 Pan
+Map	Knob 42		Drum 10 Pan
+Map	Knob 17		Drum 1 Pitch
+Map	Knob 18		Drum 2 Pitch
+Map	Knob 19		Drum 3 Pitch
+Map	Knob 20		Drum 4 Pitch
+Map	Knob 21		Drum 5 Pitch
+Map	Knob 22		Drum 6 Pitch
+Map	Knob 23		Drum 7 Pitch
+Map	Knob 24		Drum 8 Pitch
+Map	Knob 25		Drum 9 Pitch
+Map	Knob 26		Drum 10 Pitch
+Map	Knob 1		Drum 1 Send 1 Amount
+Map	Knob 2		Drum 2 Send 1 Amount
+Map	Knob 3		Drum 3 Send 1 Amount
+Map	Knob 4		Drum 4 Send 1 Amount
+Map	Knob 5		Drum 5 Send 1 Amount
+Map	Knob 6		Drum 6 Send 1 Amount
+Map	Knob 7		Drum 7 Send 1 Amount
+Map	Knob 8		Drum 8 Send 1 Amount
+Map	Knob 9		Drum 9 Send 1 Amount
+Map	Knob 10		Drum 10 Send 1 Amount
+Map	Knob 64		Master Level
+
+
+Scope	Propellerheads	Kong Drum Designer
+Define Group	Keyboard Shortcut Variations	D_Levels	D_Pitch	D_FX1	D_FX2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 64		Master Level
+
+Map	Knob 60		Bus FX P1
+Map	Knob 61		Bus FX P2
+Map	Knob 62		Master FX P1
+Map	Knob 63		Master FX P2
+
+Map	Knob 1		Drum 1 Level			D_Levels
+Map	Knob 2		Drum 2 Level			D_Levels
+Map	Knob 3		Drum 3 Level			D_Levels
+Map	Knob 4		Drum 4 Level			D_Levels
+Map	Knob 5		Drum 5 Level			D_Levels
+Map	Knob 6		Drum 6 Level			D_Levels
+Map	Knob 7		Drum 7 Level			D_Levels
+Map	Knob 8		Drum 8 Level			D_Levels
+
+Map	Knob 17		Drum 1 Bus FX Send			D_Levels
+Map	Knob 18		Drum 2 Bus FX Send			D_Levels
+Map	Knob 19		Drum 3 Bus FX Send			D_Levels
+Map	Knob 20		Drum 4 Bus FX Send			D_Levels
+Map	Knob 21		Drum 5 Bus FX Send			D_Levels
+Map	Knob 22		Drum 6 Bus FX Send			D_Levels
+Map	Knob 23		Drum 7 Bus FX Send			D_Levels
+Map	Knob 24		Drum 8 Bus FX Send			D_Levels
+
+Map	Knob 33		Pad 1 Mute			D_Levels
+Map	Knob 34		Pad 2 Mute			D_Levels
+Map	Knob 35		Pad 3 Mute			D_Levels
+Map	Knob 36		Pad 4 Mute			D_Levels
+Map	Knob 37		Pad 5 Mute			D_Levels
+Map	Knob 38		Pad 6 Mute			D_Levels
+Map	Knob 39		Pad 7 Mute			D_Levels
+Map	Knob 40		Pad 8 Mute			D_Levels
+
+Map	Knob 49		Pad 1 Solo			D_Levels
+Map	Knob 50		Pad 2 Solo			D_Levels
+Map	Knob 51		Pad 3 Solo			D_Levels
+Map	Knob 52		Pad 4 Solo			D_Levels
+Map	Knob 53		Pad 5 Solo			D_Levels
+Map	Knob 54		Pad 6 Solo			D_Levels
+Map	Knob 55		Pad 7 Solo			D_Levels
+Map	Knob 56		Pad 8 Solo			D_Levels
+
+
+Map	Knob 1		Drum 1 Decay Offset			D_Pitch
+Map	Knob 2		Drum 2 Decay Offset			D_Pitch
+Map	Knob 3		Drum 3 Decay Offset			D_Pitch
+Map	Knob 4		Drum 4 Decay Offset			D_Pitch
+Map	Knob 5		Drum 5 Decay Offset			D_Pitch
+Map	Knob 6		Drum 6 Decay Offset			D_Pitch
+Map	Knob 7		Drum 7 Decay Offset			D_Pitch
+Map	Knob 8		Drum 8 Decay Offset			D_Pitch
+
+Map	Knob 17		Drum 1 Pitch Offset			D_Pitch
+Map	Knob 18		Drum 2 Pitch Offset			D_Pitch
+Map	Knob 19		Drum 3 Pitch Offset			D_Pitch
+Map	Knob 20		Drum 4 Pitch Offset			D_Pitch
+Map	Knob 21		Drum 5 Pitch Offset			D_Pitch
+Map	Knob 22		Drum 6 Pitch Offset			D_Pitch
+Map	Knob 23		Drum 7 Pitch Offset			D_Pitch
+Map	Knob 24		Drum 8 Pitch Offset			D_Pitch
+
+Map	Knob 33		Pad 1 Mute			D_Pitch
+Map	Knob 34		Pad 2 Mute			D_Pitch
+Map	Knob 35		Pad 3 Mute			D_Pitch
+Map	Knob 36		Pad 4 Mute			D_Pitch
+Map	Knob 37		Pad 5 Mute			D_Pitch
+Map	Knob 38		Pad 6 Mute			D_Pitch
+Map	Knob 39		Pad 7 Mute			D_Pitch
+Map	Knob 40		Pad 8 Mute			D_Pitch
+
+Map	Knob 49		Pad 1 Solo			D_Pitch
+Map	Knob 50		Pad 2 Solo			D_Pitch
+Map	Knob 51		Pad 3 Solo			D_Pitch
+Map	Knob 52		Pad 4 Solo			D_Pitch
+Map	Knob 53		Pad 5 Solo			D_Pitch
+Map	Knob 54		Pad 6 Solo			D_Pitch
+Map	Knob 55		Pad 7 Solo			D_Pitch
+Map	Knob 56		Pad 8 Solo			D_Pitch
+
+
+Map	Knob 1		Drum 1 FX1 P2			D_FX1
+Map	Knob 2		Drum 2 FX1 P2			D_FX1
+Map	Knob 3		Drum 3 FX1 P2			D_FX1
+Map	Knob 4		Drum 4 FX1 P2			D_FX1
+Map	Knob 5		Drum 5 FX1 P2			D_FX1
+Map	Knob 6		Drum 6 FX1 P2			D_FX1
+Map	Knob 7		Drum 7 FX1 P2			D_FX1
+Map	Knob 8		Drum 8 FX1 P2			D_FX1
+
+Map	Knob 17		Drum 1 FX1 P1			D_FX1
+Map	Knob 18		Drum 2 FX1 P1			D_FX1
+Map	Knob 19		Drum 3 FX1 P1			D_FX1
+Map	Knob 20		Drum 4 FX1 P1			D_FX1
+Map	Knob 21		Drum 5 FX1 P1			D_FX1
+Map	Knob 22		Drum 6 FX1 P1			D_FX1
+Map	Knob 23		Drum 7 FX1 P1			D_FX1
+Map	Knob 24		Drum 8 FX1 P1			D_FX1
+
+Map	Knob 33		Pad 1 Mute			D_FX1
+Map	Knob 34		Pad 2 Mute			D_FX1
+Map	Knob 35		Pad 3 Mute			D_FX1
+Map	Knob 36		Pad 4 Mute			D_FX1
+Map	Knob 37		Pad 5 Mute			D_FX1
+Map	Knob 38		Pad 6 Mute			D_FX1
+Map	Knob 39		Pad 7 Mute			D_FX1
+Map	Knob 40		Pad 8 Mute			D_FX1
+
+Map	Knob 49		Drum 1 FX1 On			D_FX1
+Map	Knob 50		Drum 2 FX1 On			D_FX1
+Map	Knob 51		Drum 3 FX1 On			D_FX1
+Map	Knob 52		Drum 4 FX1 On			D_FX1
+Map	Knob 53		Drum 5 FX1 On			D_FX1
+Map	Knob 54		Drum 6 FX1 On			D_FX1
+Map	Knob 55		Drum 7 FX1 On			D_FX1
+Map	Knob 56		Drum 8 FX1 On			D_FX1
+
+
+Map	Knob 1		Drum 1 FX2 P2			D_FX2
+Map	Knob 2		Drum 2 FX2 P2			D_FX2
+Map	Knob 3		Drum 3 FX2 P2			D_FX2
+Map	Knob 4		Drum 4 FX2 P2			D_FX2
+Map	Knob 5		Drum 5 FX2 P2			D_FX2
+Map	Knob 6		Drum 6 FX2 P2			D_FX2
+Map	Knob 7		Drum 7 FX2 P2			D_FX2
+Map	Knob 8		Drum 8 FX2 P2			D_FX2
+
+Map	Knob 17		Drum 1 FX2 P1			D_FX2
+Map	Knob 18		Drum 2 FX2 P1			D_FX2
+Map	Knob 19		Drum 3 FX2 P1			D_FX2
+Map	Knob 20		Drum 4 FX2 P1			D_FX2
+Map	Knob 21		Drum 5 FX2 P1			D_FX2
+Map	Knob 22		Drum 6 FX2 P1			D_FX2
+Map	Knob 23		Drum 7 FX2 P1			D_FX2
+Map	Knob 24		Drum 8 FX2 P1			D_FX2
+
+Map	Knob 33		Pad 1 Mute			D_FX2
+Map	Knob 34		Pad 2 Mute			D_FX2
+Map	Knob 35		Pad 3 Mute			D_FX2
+Map	Knob 36		Pad 4 Mute			D_FX2
+Map	Knob 37		Pad 5 Mute			D_FX2
+Map	Knob 38		Pad 6 Mute			D_FX2
+Map	Knob 39		Pad 7 Mute			D_FX2
+Map	Knob 40		Pad 8 Mute			D_FX2
+
+Map	Knob 49		Drum 1 FX2 On			D_FX2
+Map	Knob 50		Drum 2 FX2 On			D_FX2
+Map	Knob 51		Drum 3 FX2 On			D_FX2
+Map	Knob 52		Drum 4 FX2 On			D_FX2
+Map	Knob 53		Drum 5 FX2 On			D_FX2
+Map	Knob 54		Drum 6 FX2 On			D_FX2
+Map	Knob 55		Drum 7 FX2 On			D_FX2
+Map	Knob 56		Drum 8 FX2 On			D_FX2
+
+
+Map	Knob 9		Drum 9 Level			D_Levels
+Map	Knob 10		Drum 10 Level			D_Levels
+Map	Knob 11		Drum 11 Level			D_Levels
+Map	Knob 12		Drum 12 Level			D_Levels
+Map	Knob 13		Drum 13 Level			D_Levels
+Map	Knob 14		Drum 14 Level			D_Levels
+Map	Knob 15		Drum 15 Level			D_Levels
+Map	Knob 16		Drum 16 Level			D_Levels
+
+Map	Knob 25		Drum 9 Bus FX Send			D_Levels
+Map	Knob 26		Drum 10 Bus FX Send			D_Levels
+Map	Knob 27		Drum 11 Bus FX Send			D_Levels
+Map	Knob 28		Drum 12 Bus FX Send			D_Levels
+Map	Knob 29		Drum 13 Bus FX Send			D_Levels
+Map	Knob 30		Drum 14 Bus FX Send			D_Levels
+Map	Knob 31		Drum 15 Bus FX Send			D_Levels
+Map	Knob 32		Drum 16 Bus FX Send			D_Levels
+
+Map	Knob 41		Pad 9 Mute			D_Levels
+Map	Knob 42		Pad 10 Mute			D_Levels
+Map	Knob 43		Pad 11 Mute			D_Levels
+Map	Knob 44		Pad 12 Mute			D_Levels
+Map	Knob 45		Pad 13 Mute			D_Levels
+Map	Knob 46		Pad 14 Mute			D_Levels
+Map	Knob 47		Pad 15 Mute			D_Levels
+Map	Knob 48		Pad 16 Mute			D_Levels
+
+Map	Knob 57		Pad 9 Solo			D_Levels
+Map	Knob 58		Pad 10 Solo			D_Levels
+Map	Knob 59		Pad 11 Solo			D_Levels
+//			Pad 12 Solo			D_Levels
+//			Pad 13 Solo			D_Levels
+//			Pad 14 Solo			D_Levels
+//			Pad 15 Solo			D_Levels
+//			Pad 16 Solo			D_Levels
+
+
+Map	Knob 9		Drum 9 Decay Offset			D_Pitch
+Map	Knob 10		Drum 10 Decay Offset			D_Pitch
+Map	Knob 11		Drum 11 Decay Offset			D_Pitch
+Map	Knob 12		Drum 12 Decay Offset			D_Pitch
+Map	Knob 13		Drum 13 Decay Offset			D_Pitch
+Map	Knob 14		Drum 14 Decay Offset			D_Pitch
+Map	Knob 15		Drum 15 Decay Offset			D_Pitch
+Map	Knob 16		Drum 16 Decay Offset			D_Pitch
+
+Map	Knob 25		Drum 9 Pitch Offset			D_Pitch
+Map	Knob 26		Drum 10 Pitch Offset			D_Pitch
+Map	Knob 27		Drum 11 Pitch Offset			D_Pitch
+Map	Knob 28		Drum 12 Pitch Offset			D_Pitch
+Map	Knob 29		Drum 13 Pitch Offset			D_Pitch
+Map	Knob 30		Drum 14 Pitch Offset			D_Pitch
+Map	Knob 31		Drum 15 Pitch Offset			D_Pitch
+Map	Knob 32		Drum 16 Pitch Offset			D_Pitch
+
+Map	Knob 41		Pad 9 Mute			D_Pitch
+Map	Knob 42		Pad 10 Mute			D_Pitch
+Map	Knob 43		Pad 11 Mute			D_Pitch
+Map	Knob 44		Pad 12 Mute			D_Pitch
+Map	Knob 45		Pad 13 Mute			D_Pitch
+Map	Knob 46		Pad 14 Mute			D_Pitch
+Map	Knob 47		Pad 15 Mute			D_Pitch
+Map	Knob 48		Pad 16 Mute			D_Pitch
+
+Map	Knob 57		Pad 9 Solo			D_Pitch
+Map	Knob 58		Pad 10 Solo			D_Pitch
+Map	Knob 59		Pad 11 Solo			D_Pitch
+//			Pad 12 Solo			D_Pitch
+//			Pad 13 Solo			D_Pitch
+//			Pad 14 Solo			D_Pitch
+//			Pad 15 Solo			D_Pitch
+//			Pad 16 Solo			D_Pitch
+
+
+Map	Knob 9		Drum 9 FX1 P2			D_FX1
+Map	Knob 10		Drum 10 FX1 P2			D_FX1
+Map	Knob 11		Drum 11 FX1 P2			D_FX1
+Map	Knob 12		Drum 12 FX1 P2			D_FX1
+Map	Knob 13		Drum 13 FX1 P2			D_FX1
+Map	Knob 14		Drum 14 FX1 P2			D_FX1
+Map	Knob 15		Drum 15 FX1 P2			D_FX1
+Map	Knob 16		Drum 16 FX1 P2			D_FX1
+
+Map	Knob 25		Drum 9 FX1 P1			D_FX1
+Map	Knob 26		Drum 10 FX1 P1			D_FX1
+Map	Knob 27		Drum 11 FX1 P1			D_FX1
+Map	Knob 28		Drum 12 FX1 P1			D_FX1
+Map	Knob 29		Drum 13 FX1 P1			D_FX1
+Map	Knob 30		Drum 14 FX1 P1			D_FX1
+Map	Knob 31		Drum 15 FX1 P1			D_FX1
+Map	Knob 32		Drum 16 FX1 P1			D_FX1
+
+Map	Knob 41		Pad 9 Mute			D_FX1
+Map	Knob 42		Pad 10 Mute			D_FX1
+Map	Knob 43		Pad 11 Mute			D_FX1
+Map	Knob 44		Pad 12 Mute			D_FX1
+Map	Knob 45		Pad 13 Mute			D_FX1
+Map	Knob 46		Pad 14 Mute			D_FX1
+Map	Knob 47		Pad 15 Mute			D_FX1
+Map	Knob 48		Pad 16 Mute			D_FX1
+
+Map	Knob 57		Drum 9 FX1 On			D_FX1
+Map	Knob 58		Drum 10 FX1 On			D_FX1
+Map	Knob 59		Drum 11 FX1 On			D_FX1
+//			Drum 12 FX1 On			D_FX1
+//			Drum 13 FX1 On			D_FX1
+//			Drum 14 FX1 On			D_FX1
+//			Drum 15 FX1 On			D_FX1
+//			Drum 16 FX1 On			D_FX1
+
+
+Map	Knob 9		Drum 9 FX2 P2			D_FX2
+Map	Knob 10		Drum 10 FX2 P2			D_FX2
+Map	Knob 11		Drum 11 FX2 P2			D_FX2
+Map	Knob 12		Drum 12 FX2 P2			D_FX2
+Map	Knob 13		Drum 13 FX2 P2			D_FX2
+Map	Knob 14		Drum 14 FX2 P2			D_FX2
+Map	Knob 15		Drum 15 FX2 P2			D_FX2
+Map	Knob 16		Drum 16 FX2 P2			D_FX2
+
+Map	Knob 25		Drum 9 FX2 P1			D_FX2
+Map	Knob 26		Drum 10 FX2 P1			D_FX2
+Map	Knob 27		Drum 11 FX2 P1			D_FX2
+Map	Knob 28		Drum 12 FX2 P1			D_FX2
+Map	Knob 29		Drum 13 FX2 P1			D_FX2
+Map	Knob 30		Drum 14 FX2 P1			D_FX2
+Map	Knob 31		Drum 15 FX2 P1			D_FX2
+Map	Knob 32		Drum 16 FX2 P1			D_FX2
+
+Map	Knob 41		Pad 9 Mute			D_FX2
+Map	Knob 42		Pad 10 Mute			D_FX2
+Map	Knob 43		Pad 11 Mute			D_FX2
+Map	Knob 44		Pad 12 Mute			D_FX2
+Map	Knob 45		Pad 13 Mute			D_FX2
+Map	Knob 46		Pad 14 Mute			D_FX2
+Map	Knob 47		Pad 15 Mute			D_FX2
+Map	Knob 48		Pad 16 Mute			D_FX2
+
+Map	Knob 57		Drum 9 FX2 On			D_FX2
+Map	Knob 58		Drum 10 FX2 On			D_FX2
+Map	Knob 59		Drum 11 FX2 On			D_FX2
+//			Drum 12 FX2 On			D_FX2
+//			Drum 13 FX2 On			D_FX2
+//			Drum 14 FX2 On			D_FX2
+//			Drum 15 FX2 On			D_FX2
+//			Drum 16 FX2 On			D_FX2
+
+
+Scope	Propellerheads	MClass Equalizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Low Shelf Enable
+Map	Knob 2		Low Shelf Frequency
+Map	Knob 3		Low Shelf Gain
+Map	Knob 4		Low Shelf Q
+Map	Knob 5		Parametric 1 Enable
+Map	Knob 6		Parametric 1 Frequency
+Map	Knob 7		Parametric 1 Gain
+Map	Knob 8		Parametric 1 Q
+Map	Knob 9		Parametric 2 Enable
+Map	Knob 10		Parametric 2 Frequency
+Map	Knob 11		Parametric 2 Gain
+Map	Knob 12		Parametric 2 Q
+Map	Knob 13		Hi Shelf Enable
+Map	Knob 14		Hi Shelf Frequency
+Map	Knob 15		Hi Shelf Gain
+Map	Knob 16		Hi Shelf Q
+
+Scope	Propellerheads	MClass Stereo Imager
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Low Width
+Map	Knob 2		X-Over Frequency
+Map	Knob 3		High Width
+Map	Knob 4		Solo Mode
+
+Scope	Propellerheads	MClass Compressor
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Input Gain
+Map	Knob 2		Threshold
+Map	Knob 3		Soft Knee
+Map	Knob 4		Ratio
+Map	Knob 5		Sidechain Solo
+Map	Knob 6		Attack
+Map	Knob 7		Release
+Map	Knob 8		Adapt
+Map	Knob 16		Output Gain
+
+Scope	Propellerheads	MClass Maximizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Input Gain
+Map	Knob 2		Limiter Enable
+Map	Knob 3		Look Ahead Enable
+Map	Knob 4		Attack Speed
+Map	Knob 5		Release Speed
+Map	Knob 6		Output Gain
+Map	Knob 7		Soft Clip Enable
+Map	Knob 8		Soft Clip Amount
+
+Scope	Propellerheads	RV7000 Advanced Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Decay
+Map	Knob 2		HF Damp
+Map	Knob 3		Hi EQ
+Map	Knob 4		Dry/Wet
+Map	Knob 9		EQ On/Off
+Map	Knob 10		Gate On/Off
+
+Scope	Propellerheads	Scream 4 Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Damage Control
+Map	Knob 2		Damage Type
+Map	Knob 3		Parameter 1
+Map	Knob 4		Parameter 2
+Map	Knob 5		Cut Lo
+Map	Knob 6		Cut Mid
+Map	Knob 7		Cut Hi
+Map	Knob 9		Body Resonance
+Map	Knob 10		Body Scale
+Map	Knob 11		Body Auto
+Map	Knob 12		Body Type
+Map	Knob 13		Damage On/Off
+Map	Knob 14		Cut On/Off
+Map	Knob 15		Body On/Off
+Map	Knob 16		Master Level
+
+Scope	Propellerheads	BV512 Digital Vocoder
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 49		Band Count
+Map	Knob 50		Hold
+Map	Knob 51		Attack
+Map	Knob 52		Decay
+Map	Knob 53		Vocoder/Equalizer
+Map	Knob 54		Shift
+Map	Knob 55		HF Emphasis
+Map	Knob 56		Dry/Wet
+Map	Knob 1		Band Level 1
+Map	Knob 2		Band Level 2
+Map	Knob 3		Band Level 3
+Map	Knob 4		Band Level 4
+Map	Knob 5		Band Level 5
+Map	Knob 6		Band Level 6
+Map	Knob 7		Band Level 7
+Map	Knob 8		Band Level 8
+Map	Knob 9		Band Level 9
+Map	Knob 10		Band Level 10
+Map	Knob 11		Band Level 11
+Map	Knob 12		Band Level 12
+Map	Knob 13		Band Level 13
+Map	Knob 14		Band Level 14
+Map	Knob 15		Band Level 15
+Map	Knob 16		Band Level 16
+Map	Knob 17		Band Level 17
+Map	Knob 18		Band Level 18
+Map	Knob 19		Band Level 19
+Map	Knob 20		Band Level 20
+Map	Knob 21		Band Level 21
+Map	Knob 22		Band Level 22
+Map	Knob 23		Band Level 23
+Map	Knob 24		Band Level 24
+Map	Knob 25		Band Level 25
+Map	Knob 26		Band Level 26
+Map	Knob 27		Band Level 27
+Map	Knob 28		Band Level 28
+Map	Knob 29		Band Level 29
+Map	Knob 30		Band Level 30
+Map	Knob 31		Band Level 31
+Map	Knob 32		Band Level 32
+
+
+
+
+
+
+Scope	Propellerheads	RV-7 Digital Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Algorithm
+Map	Knob 2		Size
+Map	Knob 3		Decay
+Map	Knob 4		Damping
+Map	Knob 5		Dry/Wet
+
+Scope	Propellerheads	DDL-1 Digital Delay Line
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Unit
+Map	Knob 2		DelayTime (steps)
+Map	Knob 3		DelayTime (ms)
+Map	Knob 4		Step Length
+Map	Knob 5		Feedback
+Map	Knob 6		Pan
+Map	Knob 7		Dry/Wet Balance
+
+Scope	Propellerheads	D-11 Foldback Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Amount
+Map	Knob 2		Foldback
+
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Frequency
+Map	Knob 2		Resonance
+Map	Knob 3		Env Amount
+Map	Knob 4		Velocity
+Map	Knob 5		Attack
+Map	Knob 6		Decay
+Map	Knob 7		Sustain
+Map	Knob 8		Release
+Map	Knob 9		Mode
+
+Scope	Propellerheads	CF-101 Chorus/Flanger
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Delay
+Map	Knob 2		Feedback
+Map	Knob 3		Rate
+Map	Knob 4		LFO Sync Enable
+Map	Knob 5		Modulation Amount
+Map	Knob 6		Send/Insert Mode
+
+Scope	Propellerheads	PH-90 Phaser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Frequency
+Map	Knob 2		Split
+Map	Knob 3		Width
+Map	Knob 4		Rate
+Map	Knob 5		LFO Sync Enable
+Map	Knob 6		Frequency Modulation
+Map	Knob 7		Feedback
+
+Scope	Propellerheads	UN-16 Unison
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Voice Count
+Map	Knob 2		Detune
+Map	Knob 3		Dry/Wet
+
+Scope	Propellerheads	COMP-01 Compressor/Limiter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Ratio
+Map	Knob 2		Threshold
+Map	Knob 3		Attack
+Map	Knob 4		Release
+
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Filter A Freq
+Map	Knob 2		Filter A Q
+Map	Knob 3		Filter A Gain
+Map	Knob 4		Filter B On/Off
+Map	Knob 5		Filter B Freq
+Map	Knob 6		Filter B Q
+Map	Knob 7		Filter B Gain
+
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Arpeggiator Enable
+Map	Knob 2		Hold
+Map	Knob 3		Single Note Repeat
+Map	Knob 4		Rate
+Map	Knob 5		Gate Length
+Map	Knob 6		Mode
+Map	Knob 9		Velocity/Manual
+Map	Knob 10		Octave Shift
+Map	Knob 11		Octave
+Map	Knob 12		Insert
+Map	Knob 13		Shuffle
+Map	Knob 14		Pattern Enable
+Map	Knob 15		Pattern Length Down
+Map	Knob 16		Pattern Length Up
+
+
+
+Scope	Propellerheads	ReGroove Mixer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		A1 Groove Amount
+Map	Knob 2		A2 Groove Amount
+Map	Knob 3		A3 Groove Amount
+Map	Knob 4		A4 Groove Amount
+Map	Knob 5		A5 Groove Amount
+Map	Knob 6		A6 Groove Amount
+Map	Knob 7		A7 Groove Amount
+Map	Knob 8		A8 Groove Amount
+Map	Knob 9		B1 Groove Amount
+Map	Knob 10		B2 Groove Amount
+Map	Knob 11		B3 Groove Amount
+Map	Knob 12		B4 Groove Amount
+Map	Knob 13		B5 Groove Amount
+Map	Knob 14		B6 Groove Amount
+Map	Knob 15		B7 Groove Amount
+Map	Knob 16		B8 Groove Amount
+
+Map	Knob 17		A1 Slide
+Map	Knob 18		A2 Slide
+Map	Knob 19		A3 Slide
+Map	Knob 20		A4 Slide
+Map	Knob 21		A5 Slide
+Map	Knob 22		A6 Slide
+Map	Knob 23		A7 Slide
+Map	Knob 24		A8 Slide
+Map	Knob 25		B1 Slide
+Map	Knob 26		B2 Slide
+Map	Knob 27		B3 Slide
+Map	Knob 28		B4 Slide
+Map	Knob 29		B5 Slide
+Map	Knob 30		B6 Slide
+Map	Knob 31		B7 Slide
+Map	Knob 32		B8 Slide
+
+Map	Knob 33		A1 Shuffle
+Map	Knob 34		A2 Shuffle
+Map	Knob 35		A3 Shuffle
+Map	Knob 36		A4 Shuffle
+Map	Knob 37		A5 Shuffle
+Map	Knob 38		A6 Shuffle
+Map	Knob 39		A7 Shuffle
+Map	Knob 40		A8 Shuffle
+Map	Knob 41		B1 Shuffle
+Map	Knob 42		B2 Shuffle
+Map	Knob 43		B3 Shuffle
+Map	Knob 44		B4 Shuffle
+Map	Knob 45		B5 Shuffle
+Map	Knob 46		B6 Shuffle
+Map	Knob 47		B7 Shuffle
+Map	Knob 48		B8 Shuffle
+
+Map	Knob 49		A1 Pre-Align
+Map	Knob 50		A2 Pre-Align
+Map	Knob 51		A3 Pre-Align
+Map	Knob 52		A4 Pre-Align
+Map	Knob 53		A5 Pre-Align
+Map	Knob 54		A6 Pre-Align
+Map	Knob 55		A7 Pre-Align
+Map	Knob 56		A8 Pre-Align
+Map	Knob 57		B1 Pre-Align
+Map	Knob 58		B2 Pre-Align
+Map	Knob 59		B3 Pre-Align
+Map	Knob 60		B4 Pre-Align
+Map	Knob 61		B5 Pre-Align
+Map	Knob 62		B6 Pre-Align
+Map	Knob 63		B7 Pre-Align
+Map	Knob 64		B8 Pre-Align
+
+
+
+Scope	Propellerheads	ID8 Instrument Device
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Parameter 1
+Map	Knob 2		Parameter 2
+Map	Knob 3		Volume
+
+
+
+Scope	Propellerheads	Line 6 Guitar Amp
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Drive
+Map	Knob 2		Bass
+Map	Knob 3		Middle
+Map	Knob 4		Treble
+Map	Knob 5		Presence
+Map	Knob 6		Volume
+
+Map	Knob 17		Wah Pedal On
+Map	Knob 18		Wah Pedal
+Map	Knob 19		Volume Pedal
+
+
+Scope	Propellerheads	Line 6 Bass Amp
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Drive
+Map	Knob 2		Bass
+Map	Knob 3		Lo Mid
+Map	Knob 4		Hi Mid
+Map	Knob 5		Treble
+Map	Knob 6		Volume
+
+Map	Knob 17		Compressor On
+Map	Knob 18		Comp Threshold
+
+
+Scope	Propellerheads	Neptune Pitch Adjuster
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Enabled
+
+Map	Knob 2		Low Freq Input
+Map	Knob 3		Wide Vibrato
+Map	Knob 4		Live Mode
+Map	Knob 5		MIDI Destination
+
+Map	Knob 10		Correction Speed
+Map	Knob 11		Preserve Expression
+Map	Knob 12		Semitones
+Map	Knob 13		Formant Shift
+
+Map	Knob 14		Vibrato Rate
+
+Map	Knob 6		Scale Memory
+Map	Knob 7		Pitch Adjust On/Off
+Map	Knob 8		Transpose On/Off
+Map	Knob 9		Formant On/Off
+
+Map	Knob 15		Pitched Signal Level
+Map	Knob 16		Voice Synth Level
+
+
+
+Scope	Propellerheads	Record Main Mixer Channel
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Input Gain
+Map	Knob 2		Invert Phase
+Map	Knob 3		Comp On
+Map	Knob 4		C Threshold
+Map	Knob 5		C Release
+Map	Knob 6		C Ratio
+Map	Knob 7		C Peak
+Map	Knob 8		C Fast Atk
+Map	Knob 9		Gate On
+Map	Knob 10		G Threshold
+Map	Knob 11		G Hold
+Map	Knob 12		G Release
+Map	Knob 13		G Range
+Map	Knob 14		G Fast Atk
+Map	Knob 15		Expander
+Map	Knob 16		Key On
+
+Map	Knob 17		LPF On
+Map	Knob 18		LPF Frequency
+Map	Knob 19		HPF On
+Map	Knob 20		HPF Frequency
+Map	Knob 21		EQ On
+Map	Knob 22		EQ E Mode
+Map	Knob 23		HF Gain
+Map	Knob 24		HF Frequency
+Map	Knob 25		HMF Gain
+Map	Knob 26		HMF Frequency
+Map	Knob 27		HMF Q
+Map	Knob 28		LMF Gain
+Map	Knob 29		LMF Frequency
+Map	Knob 30		LMF Q
+Map	Knob 31		LF Gain
+Map	Knob 32		LF Frequency
+
+Map	Knob 33		FX1 Send On
+Map	Knob 34		FX2 Send On
+Map	Knob 35		FX3 Send On
+Map	Knob 36		FX4 Send On
+Map	Knob 37		FX5 Send On
+Map	Knob 38		FX6 Send On
+Map	Knob 39		FX7 Send On
+Map	Knob 40		FX8 Send On
+Map	Knob 41		Rotary 1
+Map	Knob 42		Rotary 2
+Map	Knob 43		Rotary 3
+Map	Knob 44		Rotary 4
+Map	Knob 45		0
+Map	Knob 46		0
+Map	Knob 47		Width
+Map	Knob 48		Pan
+
+Map	Knob 49		FX1 Send Level
+Map	Knob 50		FX2 Send Level
+Map	Knob 51		FX3 Send Level
+Map	Knob 52		FX4 Send Level
+Map	Knob 53		FX5 Send Level
+Map	Knob 54		FX6 Send Level
+Map	Knob 55		FX7 Send Level
+Map	Knob 56		FX8 Send Level
+Map	Knob 57		Button 1
+Map	Knob 58		Button 2
+Map	Knob 59		Button 3
+Map	Knob 60		Button 4
+Map	Knob 61		Bypass Insert FX
+Map	Knob 62		0
+Map	Knob 63		0
+Map	Knob 64		Level
+
+
+
+Scope	Propellerheads	Record Master Section
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		FX1 Pan
+Map	Knob 2		FX2 Pan
+Map	Knob 3		FX3 Pan
+Map	Knob 4		FX4 Pan
+Map	Knob 5		FX5 Pan
+Map	Knob 6		FX6 Pan
+Map	Knob 7		FX7 Pan
+Map	Knob 8		FX8 Pan
+Map	Knob 9		Compressor On
+Map	Knob 10		Threshold
+Map	Knob 11		Ratio
+Map	Knob 12		Rotary 1
+Map	Knob 13		Rotary 2
+Map	Knob 14		Rotary 3
+Map	Knob 15		Rotary 4
+Map	Knob 16		Bypass Insert FX
+
+Map	Knob 17		FX1 Return Level
+Map	Knob 18		FX2 Return Level
+Map	Knob 19		FX3 Return Level
+Map	Knob 20		FX4 Return Level
+Map	Knob 21		FX5 Return Level
+Map	Knob 22		FX6 Return Level
+Map	Knob 23		FX7 Return Level
+Map	Knob 24		FX8 Return Level
+Map	Knob 25		Attack
+Map	Knob 26		Release
+Map	Knob 27		Make-Up Gain
+Map	Knob 28		Button 1
+Map	Knob 29		Button 2
+Map	Knob 30		Button 3
+Map	Knob 31		Button 4
+Map	Knob 32		Master Level
+
+Map	Knob 33		Channel 1 Pan
+Map	Knob 34		Channel 2 Pan
+Map	Knob 35		Channel 3 Pan
+Map	Knob 36		Channel 4 Pan
+Map	Knob 37		Channel 5 Pan
+Map	Knob 38		Channel 6 Pan
+Map	Knob 39		Channel 7 Pan
+Map	Knob 40		Channel 8 Pan
+Map	Knob 41		Channel 9 Pan
+Map	Knob 42		Channel 10 Pan
+Map	Knob 43		Channel 11 Pan
+Map	Knob 44		Channel 12 Pan
+Map	Knob 45		Channel 13 Pan
+Map	Knob 46		Channel 14 Pan
+Map	Knob 47		Channel 15 Pan
+Map	Knob 48		Channel 16 Pan
+
+Map	Knob 49		Channel 1 Level
+Map	Knob 50		Channel 2 Level
+Map	Knob 51		Channel 3 Level
+Map	Knob 52		Channel 4 Level
+Map	Knob 53		Channel 5 Level
+Map	Knob 54		Channel 6 Level
+Map	Knob 55		Channel 7 Level
+Map	Knob 56		Channel 8 Level
+Map	Knob 57		Channel 9 Level
+Map	Knob 58		Channel 10 Level
+Map	Knob 59		Channel 11 Level
+Map	Knob 60		Channel 12 Level
+Map	Knob 61		Channel 13 Level
+Map	Knob 62		Channel 14 Level
+Map	Knob 63		Channel 15 Level
+Map	Knob 64		Channel 16 Level
+
+
+//<	20110319
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+//<	20110628
+Scope	Propellerheads	Record Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Essentials Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		Input Gain
+Map	Knob 2		Invert Phase
+Map	Knob 21		EQ On
+Map	Knob 23		HF Gain
+Map	Knob 24		HF Frequency
+Map	Knob 31		LF Gain
+Map	Knob 32		LF Frequency
+Map	Knob 33		FX1 Send On
+Map	Knob 34		FX2 Send On
+Map	Knob 35		FX3 Send On
+Map	Knob 36		FX4 Send On
+Map	Knob 37		FX1 Pre Fader
+Map	Knob 38		FX2 Pre Fader
+Map	Knob 39		FX3 Pre Fader
+Map	Knob 40		FX4 Pre Fader
+Map	Knob 41		Rotary 1
+Map	Knob 42		Rotary 2
+Map	Knob 43		Rotary 3
+Map	Knob 44		Rotary 4
+Map	Knob 45		0
+Map	Knob 46		0
+Map	Knob 47		Width
+Map	Knob 48		Pan
+Map	Knob 49		FX1 Send Level
+Map	Knob 50		FX2 Send Level
+Map	Knob 51		FX3 Send Level
+Map	Knob 52		FX4 Send Level
+Map	Knob 57		Button 1
+Map	Knob 58		Button 2
+Map	Knob 59		Button 3
+Map	Knob 60		Button 4
+Map	Knob 61		Bypass Insert FX
+Map	Knob 62		0
+Map	Knob 63		0
+Map	Knob 64		Level
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Essentials Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1		FX1 Pan
+Map	Knob 2		FX2 Pan
+Map	Knob 3		FX3 Pan
+Map	Knob 4		FX4 Pan
+Map	Knob 9		Compressor On
+Map	Knob 10		Threshold
+Map	Knob 11		Ratio
+Map	Knob 12		Rotary 1
+Map	Knob 13		Rotary 2
+Map	Knob 14		Rotary 3
+Map	Knob 15		Rotary 4
+Map	Knob 16		Bypass Insert FX
+Map	Knob 17		FX1 Return Level
+Map	Knob 18		FX2 Return Level
+Map	Knob 19		FX3 Return Level
+Map	Knob 20		FX4 Return Level
+Map	Knob 21		FX1 Mute
+Map	Knob 22		FX2 Mute
+Map	Knob 23		FX3 Mute
+Map	Knob 24		FX4 Mute
+Map	Knob 25		Attack
+Map	Knob 26		Release
+Map	Knob 27		Make-Up Gain
+Map	Knob 28		Button 1
+Map	Knob 29		Button 2
+Map	Knob 30		Button 3
+Map	Knob 31		Button 4
+Map	Knob 32		Master Level
+Map	Knob 33		Channel 1 Pan
+Map	Knob 34		Channel 2 Pan
+Map	Knob 35		Channel 3 Pan
+Map	Knob 36		Channel 4 Pan
+Map	Knob 37		Channel 5 Pan
+Map	Knob 38		Channel 6 Pan
+Map	Knob 39		Channel 7 Pan
+Map	Knob 40		Channel 8 Pan
+Map	Knob 41		Channel 9 Pan
+Map	Knob 42		Channel 10 Pan
+Map	Knob 43		Channel 11 Pan
+Map	Knob 44		Channel 12 Pan
+Map	Knob 45		Channel 13 Pan
+Map	Knob 46		Channel 14 Pan
+Map	Knob 47		Channel 15 Pan
+Map	Knob 48		Channel 16 Pan
+Map	Knob 49		Channel 1 Level
+Map	Knob 50		Channel 2 Level
+Map	Knob 51		Channel 3 Level
+Map	Knob 52		Channel 4 Level
+Map	Knob 53		Channel 5 Level
+Map	Knob 54		Channel 6 Level
+Map	Knob 55		Channel 7 Level
+Map	Knob 56		Channel 8 Level
+Map	Knob 57		Channel 9 Level
+Map	Knob 58		Channel 10 Level
+Map	Knob 59		Channel 11 Level
+Map	Knob 60		Channel 12 Level
+Map	Knob 61		Channel 13 Level
+Map	Knob 62		Channel 14 Level
+Map	Knob 63		Channel 15 Level
+Map	Knob 64		Channel 16 Level
+//<	20110328
+
+
+//<	20110628
+Scope	Propellerheads	Alligator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 2		Pattern Enable
+Map	Knob 3		Gate 1 Trig
+Map	Knob 19		Gate 2 Trig
+Map	Knob 35		Gate 3 Trig
+Map	Knob 17		Shuffle
+Map	Knob 4		High Pass Filter On
+Map	Knob 20		Band Pass Filter On
+Map	Knob 36		Low Pass Filter On
+Map	Knob 54		LFOSync
+Map	Knob 59		DelaySync
+Map	Knob 1		Enabled
+Map	Knob 18		Pattern
+Map	Knob 33		Resolution
+Map	Knob 34		Shift
+Map	Knob 53		LFO Freq
+Map	Knob 52		LFO Waveform
+Map	Knob 61		Delay Pan
+Map	Knob 58		Delay Time
+Map	Knob 60		Delay Feedback
+Map	Knob 6		High Pass Frequency
+Map	Knob 22		Band Pass Frequency
+Map	Knob 38		Low Pass Frequency
+Map	Knob 13		High Pass Volume
+Map	Knob 29		Band Pass Volume
+Map	Knob 45		Low Pass Volume
+Map	Knob 32		Master Volume
+Map	Knob 46		Ducking
+Map	Knob 47		Dry Pan
+Map	Knob 48		Dry Volume
+Map	Knob 9		High Pass Drive Amount
+Map	Knob 25		Band Pass Drive Amount
+Map	Knob 41		Low Pass Drive Amount
+Map	Knob 7		High Pass Resonance
+Map	Knob 23		Band Pass Resonance
+Map	Knob 39		Low Pass Resonance
+Map	Knob 62		Phaser Rate
+Map	Knob 63		Phaser Feedback
+Map	Knob 10		High Pass Phaser Amount
+Map	Knob 26		Band Pass Phaser Amount
+Map	Knob 42		Low Pass Phaser Amount
+Map	Knob 11		High Pass Delay Amount
+Map	Knob 27		Band Pass Delay Amount
+Map	Knob 43		Low Pass Delay Amount
+Map	Knob 49		Amp Env Attack
+Map	Knob 50		Amp Env Decay
+Map	Knob 51		Amp Env Release
+Map	Knob 55		Filter Env Attack
+Map	Knob 56		Filter Env Decay
+Map	Knob 57		Filter Env Release
+Map	Knob 12		High Pass Pan
+Map	Knob 28		Band Pass Pan
+Map	Knob 44		Low Pass Pan
+Map	Knob 5		High Pass LFO Amount
+Map	Knob 21		Band Pass LFO Amount
+Map	Knob 37		Low Pass LFO Amount
+Map	Knob 8		High Pass Env Amount
+Map	Knob 24		Band Pass Env Amount
+Map	Knob 40		Low Pass Env Amount
+
+
+Scope	Propellerheads	Pulveriser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 49		Routing
+Map	Knob 54		Follower Trig
+Map	Knob 23		Sync
+Map	Knob 25		Tremor Spread
+Map	Knob 1		Enabled
+Map	Knob 17		Squash
+Map	Knob 18		Dirt
+Map	Knob 35		Filter Frequency
+Map	Knob 36		Peak
+Map	Knob 22		Tremor Rate
+Map	Knob 55		Follower Threshold
+Map	Knob 56		Follower Attack
+Map	Knob 57		Follower Release
+Map	Knob 32		Volume
+Map	Knob 19		Filter Mode
+Map	Knob 33		Release
+Map	Knob 34		Tone
+Map	Knob 24		Tremor Waveform
+Map	Knob 26		Tremor Lag
+Map	Knob 21		Tremor to Frequency
+Map	Knob 37		Follower to Rate
+Map	Knob 53		Follower to Frequency
+Map	Knob 27		Tremor to Volume
+Map	Knob 48		Blend
+
+
+Scope	Propellerheads	The Echo
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 34		Trig
+Map	Knob 35		Keep Pitch
+Map	Knob 36		Sync
+Map	Knob 51		Ping-Pong Mode
+Map	Knob 37		Diffuse On
+Map	Knob 39		Filter On
+Map	Knob 1		Enabled
+Map	Knob 50		Roll Enabled
+Map	Knob 18		Input Mode
+Map	Knob 19		Delay Time
+Map	Knob 20		Right Ch Time Offset
+Map	Knob 52		Ping-Pong Pan
+Map	Knob 21		Feedback
+Map	Knob 22		Right Ch Feedback Offset
+Map	Knob 24		Drive Type
+Map	Knob 23		Drive Amount
+Map	Knob 25		Envelope
+Map	Knob 26		Wobble
+Map	Knob 55		Filter Frequency
+Map	Knob 56		Filter Resonance
+Map	Knob 53		Diffuse Spread
+Map	Knob 54		Diffuse Amount
+Map	Knob 57		LFO Rate
+Map	Knob 58		LFO Amount
+Map	Knob 64		Ducking
+Map	Knob 32		Dry/Wet Balance
+//<	20110711
+
+
+Scope	Propellerhead Software	se.propellerheads.radicalpiano
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 49		Character
+Map	Knob 50		Microphone 1 Type
+Map	Knob 51		Microphone and Instrument Blend
+Map	Knob 52		Microphone 2 Type
+Map	Knob 53		Key Down Level
+Map	Knob 54		Key Up Level
+Map	Knob 55		Pedal Level
+Map	Knob 56		Vel Response Curve
+
+Map	Knob 57		EQ Lo Gain
+Map	Knob 58		EQ Mid Gain
+Map	Knob 59		EQ Hi Gain
+Map	Knob 60		Symp Res Release Time
+Map	Knob 61		Symp Res Level
+Map	Knob 62		Ambience Level
+Map	Knob 63		Stereo Width
+Map	Knob 64		Master Volume
+

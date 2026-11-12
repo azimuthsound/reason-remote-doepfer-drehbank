@@ -1,0 +1,152 @@
+﻿Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Doepfer
+Control Surface Model	Drehbank EQ
+Map Version	1.4.6
+
+
+//<	20110628
+Scope	Propellerheads	Reason Master Section
+
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// BANK 1
+
+Map	Knob 1		Channel 1 HF Gain
+Map	Knob 2		Channel 2 HF Gain
+Map	Knob 3		Channel 3 HF Gain
+Map	Knob 4		Channel 4 HF Gain
+Map	Knob 5		Channel 5 HF Gain
+Map	Knob 6		Channel 6 HF Gain
+Map	Knob 7		Channel 7 HF Gain
+Map	Knob 8		Channel 8 HF Gain
+Map	Knob 9		Channel 9 HF Gain
+Map	Knob 10		Channel 10 HF Gain
+Map	Knob 11		Channel 11 HF Gain
+Map	Knob 12		Channel 12 HF Gain
+Map	Knob 13		Channel 13 HF Gain
+Map	Knob 14		Channel 14 HF Gain
+Map	Knob 15		Channel 15 HF Gain
+Map	Knob 16		Channel 16 HF Gain
+
+Map	Knob 17		Channel 1 HMF Gain
+Map	Knob 18		Channel 2 HMF Gain
+Map	Knob 19		Channel 3 HMF Gain
+Map	Knob 20		Channel 4 HMF Gain
+Map	Knob 21		Channel 5 HMF Gain
+Map	Knob 22		Channel 6 HMF Gain
+Map	Knob 23		Channel 7 HMF Gain
+Map	Knob 24		Channel 8 HMF Gain
+Map	Knob 25		Channel 9 HMF Gain
+Map	Knob 26		Channel 10 HMF Gain
+Map	Knob 27		Channel 11 HMF Gain
+Map	Knob 28		Channel 12 HMF Gain
+Map	Knob 29		Channel 13 HMF Gain
+Map	Knob 30		Channel 14 HMF Gain
+Map	Knob 31		Channel 15 HMF Gain
+Map	Knob 32		Channel 16 HMF Gain
+
+Map	Knob 33		Channel 1 LMF Gain
+Map	Knob 34		Channel 2 LMF Gain
+Map	Knob 35		Channel 3 LMF Gain
+Map	Knob 36		Channel 4 LMF Gain
+Map	Knob 37		Channel 5 LMF Gain
+Map	Knob 38		Channel 6 LMF Gain
+Map	Knob 39		Channel 7 LMF Gain
+Map	Knob 40		Channel 8 LMF Gain
+Map	Knob 41		Channel 9 LMF Gain
+Map	Knob 42		Channel 10 LMF Gain
+Map	Knob 43		Channel 11 LMF Gain
+Map	Knob 44		Channel 12 LMF Gain
+Map	Knob 45		Channel 13 LMF Gain
+Map	Knob 46		Channel 14 LMF Gain
+Map	Knob 47		Channel 15 LMF Gain
+Map	Knob 48		Channel 16 LMF Gain
+
+Map	Knob 49		Channel 1 LF Gain
+Map	Knob 50		Channel 2 LF Gain
+Map	Knob 51		Channel 3 LF Gain
+Map	Knob 52		Channel 4 LF Gain
+Map	Knob 53		Channel 5 LF Gain
+Map	Knob 54		Channel 6 LF Gain
+Map	Knob 55		Channel 7 LF Gain
+Map	Knob 56		Channel 8 LF Gain
+Map	Knob 57		Channel 9 LF Gain
+Map	Knob 58		Channel 10 LF Gain
+Map	Knob 59		Channel 11 LF Gain
+Map	Knob 60		Channel 12 LF Gain
+Map	Knob 61		Channel 13 LF Gain
+Map	Knob 62		Channel 14 LF Gain
+Map	Knob 63		Channel 15 LF Gain
+Map	Knob 64		Channel 16 LF Gain
+
+// BANK 2
+
+Map	Knob 65		Channel 1 FX5 Send Level
+Map	Knob 66		Channel 2 FX5 Send Level
+Map	Knob 67		Channel 3 FX5 Send Level
+Map	Knob 68		Channel 4 FX5 Send Level
+Map	Knob 69		Channel 5 FX5 Send Level
+Map	Knob 70		Channel 6 FX5 Send Level
+Map	Knob 71		Channel 7 FX5 Send Level
+Map	Knob 72		Channel 8 FX5 Send Level
+Map	Knob 73		Channel 9 FX5 Send Level
+Map	Knob 74		Channel 10 FX5 Send Level
+Map	Knob 75		Channel 11 FX5 Send Level
+Map	Knob 76		Channel 12 FX5 Send Level
+Map	Knob 77		Channel 13 FX5 Send Level
+Map	Knob 78		Channel 14 FX5 Send Level
+Map	Knob 79		Channel 15 FX5 Send Level
+Map	Knob 80		Channel 16 FX5 Send Level
+
+Map	Knob 81		Channel 1 FX6 Send Level
+Map	Knob 82		Channel 2 FX6 Send Level
+Map	Knob 83		Channel 3 FX6 Send Level
+Map	Knob 84		Channel 4 FX6 Send Level
+Map	Knob 85		Channel 5 FX6 Send Level
+Map	Knob 86		Channel 6 FX6 Send Level
+Map	Knob 87		Channel 7 FX6 Send Level
+Map	Knob 88		Channel 8 FX6 Send Level
+Map	Knob 89		Channel 9 FX6 Send Level
+Map	Knob 90		Channel 10 FX6 Send Level
+Map	Knob 91		Channel 11 FX6 Send Level
+Map	Knob 92		Channel 12 FX6 Send Level
+Map	Knob 93		Channel 13 FX6 Send Level
+Map	Knob 94		Channel 14 FX6 Send Level
+Map	Knob 95		Channel 15 FX6 Send Level
+Map	Knob 96		Channel 16 FX6 Send Level
+
+Map	Knob 97		Channel 1 FX7 Send Level
+Map	Knob 98		Channel 2 FX7 Send Level
+Map	Knob 99		Channel 3 FX7 Send Level
+Map	Knob 100		Channel 4 FX7 Send Level
+Map	Knob 101		Channel 5 FX7 Send Level
+Map	Knob 102		Channel 6 FX7 Send Level
+Map	Knob 103		Channel 7 FX7 Send Level
+Map	Knob 104		Channel 8 FX7 Send Level
+Map	Knob 105		Channel 9 FX7 Send Level
+Map	Knob 106		Channel 10 FX7 Send Level
+Map	Knob 107		Channel 11 FX7 Send Level
+Map	Knob 108		Channel 12 FX7 Send Level
+Map	Knob 109		Channel 13 FX7 Send Level
+Map	Knob 110		Channel 14 FX7 Send Level
+Map	Knob 111		Channel 15 FX7 Send Level
+Map	Knob 112		Channel 16 FX7 Send Level
+
+Map	Knob 113		Channel 1 FX8 Send Level
+Map	Knob 114		Channel 2 FX8 Send Level
+Map	Knob 115		Channel 3 FX8 Send Level
+Map	Knob 116		Channel 4 FX8 Send Level
+Map	Knob 117		Channel 5 FX8 Send Level
+Map	Knob 118		Channel 6 FX8 Send Level
+Map	Knob 119		Channel 7 FX8 Send Level
+Map	Knob 120		Channel 8 FX8 Send Level
+Map	Knob 121		Channel 9 FX8 Send Level
+Map	Knob 122		Channel 10 FX8 Send Level
+Map	Knob 123		Channel 11 FX8 Send Level
+Map	Knob 124		Channel 12 FX8 Send Level
+Map	Knob 125		Channel 13 FX8 Send Level
+Map	Knob 126		Channel 14 FX8 Send Level
+Map	Knob 127		Channel 15 FX8 Send Level
+Map	Knob 128		Channel 16 FX8 Send Level
+

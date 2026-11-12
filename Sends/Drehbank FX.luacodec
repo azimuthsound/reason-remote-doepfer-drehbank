@@ -1,0 +1,11 @@
+version={1,0,1}
+
+function remote_supported_control_surfaces()
+	local surfaces =		{
+			{ manufacturer="Doepfer", model="Drehbank FX",
+				source="Drehbank FX.lua", picture="Drehbank FX.png", 
+				in_ports={{description="In Port"}}, out_ports={},
+				has_keyboard=true,
+				setup_info_text="" },
+		}	return surfaces
+end
